@@ -1,0 +1,57 @@
+The individual health insurance market in 2023
+
+
+This represents an outsize year for insurer and enrollment growth. More than 3.6 million new consumers entering the market are choosing among an average of 88 plans.
+
+Consumer participation increased 25 percent to approximately 16 million from 2020 to 2022,1 coincident with extended enrollment periods2 and enhanced subsidies implemented under the American Rescue Plan Act of 20213 and extended through 2025 by the Inflation Reduction Act of 2022.4
+We have collected and analyzed data from every health insurance exchange in the country across the 33 marketplaces on the federal platform and the 18 state-based marketplaces at the county level (see sidebar, “Methodology”). This document includes several insights into the individual market for 2023 that are relevant to stakeholders, including insurers, providers, private equity firms, policy analysts, and consumers:
+
+MOST POPULAR INSIGHTS
+The state of AI in 2023: Generative AI’s breakout year
+McKinsey Technology Trends Outlook 2023
+The economic potential of generative AI: The next productivity frontier
+Generative AI and the future of work in America
+Enabling renewable energy with battery energy storage systems
+Participation continues to grow across almost all insurer categories, as it has since 2018, although the growth rate has slowed in 2023. 
+
+The individual marketplace grew to approximately 16 million enrollees in 2022
+Heading into the 2023 open enrollment period, consumer participation increased to more than 16 million in 2022. Approximately 42 percent of members were enrolled with Blues in 2022, down 18 percentage points from their high in 2014. Insurtechs enrolled 14 percent of members, a 12-percentage-point increase since 2019.
+
+Enrollment in 2022 exceeded 16 million for the first time since 2016.
+
+Insurer participation continued to grow in 2023, although at a slower rate
+Insurer participation increased in 2023 for the fifth consecutive year to 303 insurer participants at the state level, nearly matching the all-time high of 306 in 2015.
+
+Twenty-six new insurers entered at the state level in 2023 (a 9 percent increase in participation), compared with 48 and 35 new entrants in 2022 and 2021, respectively. This increase was offset by the exit of 20 insurers (a 7 percent decrease) at the state level. The overall net increase of six insurers (a 2 percent increase) in 2023 is lower than the increases observed in the previous four years, which ranged from 11 to 16 percent.
+
+
+National insurers expanded participation the most from 2022 to 2023, and insurtechs were the only insurer category to see declines
+Although insurtechs have been a major contributor to participation growth in recent years, they experienced a retrenchment in 2023, with Bright Health exiting the market and Friday Health Plan pausing operations in some states.
+
+
+Additionally, consumers continue to have more choices, with insurers offering 17 percent more plan options in 2023 than in 2022 and more than three times the number of offerings in 2018.
+
+On average, a consumer can choose among five insurers and 88 plans in 2023, compared with three insurers and 27 plans in 2018.
+
+A higher proportion of plans available to consumers in 2023 are gold plans (24 percent, compared with 19 percent of total product offerings in 2022). Proportions across other tiers in 2023 are largely consistent with recent years, including a six-percentage-point increase in availability of bronze plans since 2018, with proportional decreases in platinum and catastrophic plans.
+
+The availability of managed care plans has steadily grown since 2014, and gold plan offerings increased in 2023.
+
+Rates for plans increased in 2023 across metal tiers and plan categories
+Gross premiums in 2023 increased across all metal tiers after four years of relative premium stability or declines.
+
+Platinum and catastrophic plans saw the highest rate increases in 2023, at 10 percent and 5 percent, respectively. Increases for gold plans were relatively modest at 2 percent.
+
+Premiums for the lowest-price silver plan also increased across all plan categories, with the highest increases coming from insurtechs.
+
+Across all metal tiers, premiums have increased between 2022 and 2023.
+
+Premium changes varied by insurer type
+From 2022 to 2023, 83 percent of all consumers enrolled across all insurer categories saw at least some increase in lowest-price silver premiums. The insurtech category had the largest increases in 2023, with a median increase of 8 percent, compared with 4 or 5 percent for Blues, nationals, Medicaid, and regional insurers, and 2 percent for provider plans.
+
+A greater share of national insurers had declines in silver premiums from 2022 to 2023, compared with other insurers; but on average, the provider and CO-OP categories had the most stable premiums.
+
+National insurers improved their price position in 2023
+Nationals now offer the lowest premiums for silver plans for 20 percent of consumers in the individual market, an increase of 14 percentage points from 2022. This increase is offset by a similar decrease in price leadership for insurtechs from 2022 (price leader in silver for 18 percent of consumers) to 2023 (price leader in silver for 2 percent of consumers).
+
+Medicaid and Blues plans maintain the highest proportion of price leadership in 2023, offering the lowest-cost option for 30 percent and 25 percent of consumers, respectively.
