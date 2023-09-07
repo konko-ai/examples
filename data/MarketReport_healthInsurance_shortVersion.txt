@@ -1,57 +1,404 @@
-The individual health insurance market in 2023
-
-
-This represents an outsize year for insurer and enrollment growth. More than 3.6 million new consumers entering the market are choosing among an average of 88 plans.
-
-Consumer participation increased 25 percent to approximately 16 million from 2020 to 2022,1 coincident with extended enrollment periods2 and enhanced subsidies implemented under the American Rescue Plan Act of 20213 and extended through 2025 by the Inflation Reduction Act of 2022.4
-We have collected and analyzed data from every health insurance exchange in the country across the 33 marketplaces on the federal platform and the 18 state-based marketplaces at the county level (see sidebar, “Methodology”). This document includes several insights into the individual market for 2023 that are relevant to stakeholders, including insurers, providers, private equity firms, policy analysts, and consumers:
-
-MOST POPULAR INSIGHTS
-The state of AI in 2023: Generative AI’s breakout year
-McKinsey Technology Trends Outlook 2023
-The economic potential of generative AI: The next productivity frontier
-Generative AI and the future of work in America
-Enabling renewable energy with battery energy storage systems
-Participation continues to grow across almost all insurer categories, as it has since 2018, although the growth rate has slowed in 2023. 
-
-The individual marketplace grew to approximately 16 million enrollees in 2022
-Heading into the 2023 open enrollment period, consumer participation increased to more than 16 million in 2022. Approximately 42 percent of members were enrolled with Blues in 2022, down 18 percentage points from their high in 2014. Insurtechs enrolled 14 percent of members, a 12-percentage-point increase since 2019.
-
-Enrollment in 2022 exceeded 16 million for the first time since 2016.
-
-Insurer participation continued to grow in 2023, although at a slower rate
-Insurer participation increased in 2023 for the fifth consecutive year to 303 insurer participants at the state level, nearly matching the all-time high of 306 in 2015.
-
-Twenty-six new insurers entered at the state level in 2023 (a 9 percent increase in participation), compared with 48 and 35 new entrants in 2022 and 2021, respectively. This increase was offset by the exit of 20 insurers (a 7 percent decrease) at the state level. The overall net increase of six insurers (a 2 percent increase) in 2023 is lower than the increases observed in the previous four years, which ranged from 11 to 16 percent.
-
-
-National insurers expanded participation the most from 2022 to 2023, and insurtechs were the only insurer category to see declines
-Although insurtechs have been a major contributor to participation growth in recent years, they experienced a retrenchment in 2023, with Bright Health exiting the market and Friday Health Plan pausing operations in some states.
-
-
-Additionally, consumers continue to have more choices, with insurers offering 17 percent more plan options in 2023 than in 2022 and more than three times the number of offerings in 2018.
-
-On average, a consumer can choose among five insurers and 88 plans in 2023, compared with three insurers and 27 plans in 2018.
-
-A higher proportion of plans available to consumers in 2023 are gold plans (24 percent, compared with 19 percent of total product offerings in 2022). Proportions across other tiers in 2023 are largely consistent with recent years, including a six-percentage-point increase in availability of bronze plans since 2018, with proportional decreases in platinum and catastrophic plans.
-
-The availability of managed care plans has steadily grown since 2014, and gold plan offerings increased in 2023.
-
-Rates for plans increased in 2023 across metal tiers and plan categories
-Gross premiums in 2023 increased across all metal tiers after four years of relative premium stability or declines.
-
-Platinum and catastrophic plans saw the highest rate increases in 2023, at 10 percent and 5 percent, respectively. Increases for gold plans were relatively modest at 2 percent.
-
-Premiums for the lowest-price silver plan also increased across all plan categories, with the highest increases coming from insurtechs.
-
-Across all metal tiers, premiums have increased between 2022 and 2023.
-
-Premium changes varied by insurer type
-From 2022 to 2023, 83 percent of all consumers enrolled across all insurer categories saw at least some increase in lowest-price silver premiums. The insurtech category had the largest increases in 2023, with a median increase of 8 percent, compared with 4 or 5 percent for Blues, nationals, Medicaid, and regional insurers, and 2 percent for provider plans.
-
-A greater share of national insurers had declines in silver premiums from 2022 to 2023, compared with other insurers; but on average, the provider and CO-OP categories had the most stable premiums.
-
-National insurers improved their price position in 2023
-Nationals now offer the lowest premiums for silver plans for 20 percent of consumers in the individual market, an increase of 14 percentage points from 2022. This increase is offset by a similar decrease in price leadership for insurtechs from 2022 (price leader in silver for 18 percent of consumers) to 2023 (price leader in silver for 2 percent of consumers).
-
-Medicaid and Blues plans maintain the highest proportion of price leadership in 2023, offering the lowest-cost option for 30 percent and 25 percent of consumers, respectively.
+Annual Report on the Insurance Industry
+FEDERAL INSURANCE OFFICE, U.S. DEPARTMENT OF THE TREASURY
+Completed pursuant to Title V of the Dodd-Frank Wall Street Reform
+and Consumer Protection Act
+SEPTEMBER 2022
+Annual Report on the Insurance Industry (September 2022)
+_____________________________________________________________________________
+FEDERAL INSURANCE OFFICE, U.S. DEPARTMENT OF THE TREASURY
+i
+TABLE OF CONTENTS
+EXECUTIVE SUMMARY...................................................................................................... v
+I. INTRODUCTION............................................................................................................ 1
+The Structure of this Report .......................................................................................... 1
+Federal Insurance Office ............................................................................................... 1
+Insurance Regulation and the Federal Insurance Office......................................... 1
+FIO Activities......................................................................................................... 3
+Box 1: FIO Cyber Insurance Initiatives................................................................. 7
+II. INSURANCE INDUSTRY FINANCIAL OVERVIEW AND OUTLOOK................... 9
+Domestic Insurance Marketplace Overview and Outlook ............................................ 9
+Financial Performance and Condition Overview ................................................. 10
+Life and Health Sector.......................................................................................... 14
+Box 2: Increased Focus on Private Equity in the Life Insurance Sector............. 37
+Property and Casualty Sector ............................................................................... 38
+Box 3: Cyber Insurance Market........................................................................... 40
+Market Performance ............................................................................................. 57
+Domestic Outlook................................................................................................. 58
+Capital Markets Activity ............................................................................................. 60
+Financings............................................................................................................. 60
+Mergers & Acquisitions of U.S. Insurers............................................................. 61
+Alternative Risk Transfer Insurance Products...................................................... 62
+International Insurance Marketplace Overview and Outlook ..................................... 62
+III. CONCLUSION.............................................................................................................. 66
+Annual Report on the Insurance Industry (September 2022)
+_____________________________________________________________________________
+FEDERAL INSURANCE OFFICE, U.S. DEPARTMENT OF THE TREASURY
+ii
+GLOSSARY
+A&H .......... Accident and Health
+ABS .......... Asset-Backed Securities
+CISA .......... Cybersecurity and Infrastructure Security Agency
+CLO .......... Collateralized Loan Obligation
+CMBS .......... Commercial Mortgage-Backed Securities
+Dodd-Frank Act .......... Dodd-Frank Wall Street Reform and Consumer Protection
+Act of 2010
+FACI .......... Federal Advisory Committee on Insurance
+Federal Reserve .......... Board of Governors of the Federal Reserve System
+FEMA .......... Federal Emergency Management Agency
+FIO .......... Federal Insurance Office
+FSOC .......... Financial Stability Oversight Council
+GAO .......... U.S. Government Accountability Office
+GDP .......... Gross Domestic Product
+Health sector .......... Health sector includes companies licensed solely as health
+insurers or as health maintenance organizations
+IAIS .......... International Association of Insurance Supervisors
+ICS .......... Insurance Capital Standard
+InsurTech .......... The innovative use of technology in connection with
+insurance
+IPO .......... Initial Public Offering
+L&H .......... Life and Health
+M&A .......... Mergers and Acquisitions
+MitFLG .......... Mitigation Framework Leadership Group
+NAIC .......... National Association of Insurance Commissioners
+OECD .......... Organisation for Economic Co-operation and Development
+P&C .......... Property and Casualty
+RBC .......... Risk-Based Capital
+Report .......... FIO, Annual Report on the Insurance Industry (2022)
+S&P Global .......... S&P Global Market Intelligence
+Secretary .......... Secretary of the Treasury
+SIF .......... Sustainable Insurance Forum
+TRIA .......... Terrorism Risk Insurance Act of 2002, as amended
+TRIP .......... Terrorism Risk Insurance Program
+Treasury .......... U.S. Department of the Treasury
+Annual Report on the Insurance Industry (September 2022)
+_____________________________________________________________________________
+FEDERAL INSURANCE OFFICE, U.S. DEPARTMENT OF THE TREASURY
+iii
+TABLE OF FIGURES
+Figure 1: Total Direct Premiums Written in L&H and P&C Sectors .............................10
+Figure 2: L&H Insurance Groups by 2021 U.S. Life Insurance Lines ...........................11
+Figure 3: L&H Insurance Groups by 2021 U.S. A&H Lines Direct
+Premiums Written...........................................................................................11
+Figure 4: P&C Insurance Groups by 2021 U.S. Combined Lines Direct
+Premiums Written...........................................................................................12
+Figure 5: P&C Insurance Groups by 2021 U.S. Personal Lines Direct
+Premiums Written...........................................................................................13
+Figure 6: P&C Insurance Groups by 2021 Commercial Lines Direct
+Premiums Written...........................................................................................13
+Figure 7: Health Insurance Groups by 2021 Direct Premiums Written ..........................14
+Figure 8: L&H Sector Net Premiums, Considerations, and Deposits.............................16
+Figure 9: 2021 Composition of Net Premiums and Annuity Considerations for
+the L&H Sector ..............................................................................................16
+Figure 10: L&H Sector Expenses ($ thousands).............................................................17
+Figure 11: L&H Sector Annual Net Investment Income and Net Yield on Invested
+Assets..............................................................................................................18
+Figure 12: Percentage Yield on 10-Year Treasury Bonds ..............................................19
+Figure 13: L&H Sector Net Income ($ thousands) .........................................................20
+Figure 14: L&H Sector Operating Ratios........................................................................21
+Figure 15: L&H Capital and Surplus Position ($ thousands)..........................................22
+Figure 16: Leading Determinants of Capital and Surplus for the L&H Sector...............23
+Figure 17: Average Risk-Based Capital Ratios for the L&H Sector ..............................24
+Figure 18: L&H Sector Leverage Ratios.........................................................................26
+Figure 19: Growth of Alternative Investments Held by L&H Sector.............................28
+Figure 20: Composition of L&H Sector..........................................................................29
+Figure 21: Cash Flows from Operations for the L&H Sector.........................................31
+Figure 22: A View of L&H Sector Liquidity..................................................................33
+Figure 23: L&H Sector Portfolio of Asset-Backed Securities........................................35
+Figure 24: P&C Sector Composite of Direct Premiums Written ....................................39
+Figure 25: P&C Sector Direct Premiums Written...........................................................40
+Figure 26: P&C Insurance Groups by U.S. Cyber Direct Premiums Written.................41
+Figure 27: P&C Sector Combined Operating Ratios ......................................................42
+Figure 28: Estimated Insured Property Losses, U.S. Catastrophic Events......................43
+Annual Report on the Insurance Industry (September 2022)
+_____________________________________________________________________________
+FEDERAL INSURANCE OFFICE, U.S. DEPARTMENT OF THE TREASURY
+iv
+Figure 29: Total One Year Reserve Development for the P&C Sector ..........................43
+Figure 30: P&C Sector Annual Net Investment Income and Net Yield on
+Invested Assets...............................................................................................44
+Figure 31: P&C Sector Net Income ................................................................................45
+Figure 32: P&C Sector Operating Ratios........................................................................46
+Figure 33: P&C Sector Leverage Ratios.........................................................................47
+Figure 34: Composition of Asset Portfolio for P&C Sector ...........................................49
+Figure 35: Composition of P&C Sector’s Investment Portfolio .....................................50
+Figure 36: A View of P&C Sector Liquidity ..................................................................52
+Figure 37: Growth of Alternative Investments Held by P&C Sector..............................53
+Figure 38: P&C Sector’s Asset-Backed Securities .........................................................55
+Figure 39: P&C Sector’s Affiliated Exposures...............................................................56
+Figure 40: Insurance Industry Stock Price vs. S&P 500 .................................................57
+Figure 41: Insurer Price/Book Value Ratios ...................................................................58
+Figure 42: World Market Share 2019–2021 for Top Twenty Markets...........................63
+Figure 43: Performance of Global Insurance Indices as Compared to Broader
+Market Average (S&P 500)............................................................................65
+Annual Report on the Insurance Industry (September 2022)
+_____________________________________________________________________________
+FEDERAL INSURANCE OFFICE, U.S. DEPARTMENT OF THE TREASURY
+v
+EXECUTIVE SUMMARY
+Introduction: This Report is submitted pursuant to the Dodd-Frank Wall Street Reform and
+Consumer Protection Act. The introduction outlines the Report’s structure, summarizes the
+authorities of the Federal Insurance Office (FIO), and describes certain FIO’s activities since its
+last Annual Report.
+Insurance Industry Financial Overview and Outlook: This section provides an overview of
+the financial performance and condition of the insurance industry in calendar year 2021.
+Domestic Insurance Marketplace Overview: The U.S. insurance industry was able to
+maintain its financial health during this period, despite the continuing effects of the COVID-19
+pandemic, higher inflation, and a changing interest rate environment. This section includes
+five subsections and a box, as follows:
+Financial Performance and Condition Overview: The overview describes the financial
+performance and condition of the U.S. insurance industry, including the 667 life and health
+(L&H) insurers, the 2,651 property and casualty (P&C) insurers, and the 1,321 health
+insurers licensed in the United States during 2021. Insurers in the L&H sector offer
+products in two segments: (1) life insurance and annuities; and (2) accident and health
+products. Insurers in the P&C sector offer products that generally protect against the risk of
+financial loss associated with damage to property or exposure to liability for individuals,
+families or businesses. The Health sector includes companies licensed solely as health
+insurers or as health maintenance organizations. The overview includes information on the
+Health sector, but the subsequent detailed financial analyses are limited to the L&H and
+P&C sectors.
+Direct premiums written in 2021 were approximately $819 billion for the L&H sector, $798
+billion for the P&C sector, and $908 billion for the Health sector. At the end of 2021, total
+assets held by the L&H sector were $8.5 trillion, by the P&C sector were $2.6 trillion, and
+by the Health sector were $735 billion.
+The aggregate market shares of the top 10 and top 25 L&H insurers declined slightly in
+2021, while market share for the top 100 companies was little changed compared to 2020.
+On a combined basis, there was little year-over-year change in the composition of the top 10
+P&C companies, nor in the aggregate market shares of the top 10, 25, and 100 P&C
+companies. For the Health market, there was little change among the top writers in 2021.
+L&H Sector: This sub-section presents additional analysis of the financial performance of
+the L&H sector in 2021, and then assesses this sector’s overall financial condition as of
+December 31, 2021.
+Private Equity-Backed Insurers: Box 2 discusses how private equity-owned life insurers
+have continued to expand rapidly in the U.S. insurance industry and describes recent
+attention on private equity’s participation in the sector, including regulatory and policy
+initiatives.
+Annual Report on the Insurance Industry (September 2022)
+_____________________________________________________________________________
+FEDERAL INSURANCE OFFICE, U.S. DEPARTMENT OF THE TREASURY
+vi
+P&C Sector: This sub-section presents additional analysis of the financial performance of
+the P&C sector in 2021, and then assesses this sector’s overall financial condition as of
+December 31, 2021.
+Market Performance: This subsection describes the performance in 2021 of stock price
+indices for L&H and P&C insurers. Insurer indices underperformed as compared to the
+Standard & Poor’s 500 (S&P 500) and potential concerns about inflationary pressures, the
+economic environment, natural catastrophe losses, and the interest rate environment
+weighed on both sectors..
+Domestic Outlook: This sub-section provides some insights into near- to medium-term
+trends, reflecting observations from 2021 and the first three months of 2022.
+Capital Markets Activity: The U.S. insurance industry continued to access the capital markets
+in 2021. During the year, 16 insurer-related public equity offerings were completed, with an
+aggregate value of $4.4 billion. Insurers also continue to access public debt markets, and issued
+debt securities at higher interest rates as general market rates increased. There were 67 and
+acquisition transactions announced in 2021 involving U.S. insurers and reinsurers, with a total
+value of $46.5 billion. The assets under management in the alternative risk transfer market at
+year-end 2021 were approximately $97 billion, an approximately $3 billion increase over 2020.
+Overall issuances of annual catastrophe bond and insurance linked securities in 2021 set a new
+annual record, at just under $20.3 billion.
+International Insurance Marketplace Overview and Outlook: The United States remained
+the world’s largest single-country insurance market in 2021. When viewed as a single market,
+the combined share of the European Union (no longer inclusive of the United Kingdom)
+remained the next largest, followed by China.
+Conclusion: In the coming year, FIO will continue to monitor macroeconomic developments
+and assess their financial implications for the insurance industry. FIO will also continue to
+assess the affordability and availability of insurance products for traditionally underserved
+communities and consumers (particularly with respect to personal auto insurance and
+homeowners’ insurance), the role of the insurance industry in helping to improve our nation’s
+cybersecurity, climate-related financial risks and other relevant developments affecting the
+insurance industry, policyholders, and consumers.
+Annual Report on the Insurance Industry (September 2022)
+_____________________________________________________________________________
+FEDERAL INSURANCE OFFICE, U.S. DEPARTMENT OF THE TREASURY
+1
+I. INTRODUCTION
+This Report is submitted by the Federal Insurance Office (FIO) of the U.S. Department of the
+Treasury (Treasury) pursuant to Section 502(a) of the Dodd-Frank Wall Street Reform and
+Consumer Protection Act (Dodd-Frank Act), which requires the annual submission by FIO of a
+report to the President, the Committee on Financial Services of the House of Representatives,
+and the Committee on Banking, Housing, and Urban Affairs of the Senate “on the insurance
+industry and any other information as deemed relevant by the [FIO] Director or requested by
+such Committees.”1
+The Structure of this Report
+This Report begins with an overview of FIO’s statutory responsibilities, then summarizes certain
+of FIO’s key activities since those described in its 2021 Annual Report on the Insurance
+Industry.
+2
+ Section II presents a discussion and analysis of the insurance industry’s financial
+performance in calendar year 2021 and its financial condition as of December 31, 2021. This
+financial discussion also includes an outlook for the domestic and international insurance
+markets, as well as developments in emerging issues that have bearing on the financial
+performance and condition of the domestic insurance industry. Section III concludes with
+anticipated areas for FIO’s focus in the coming year.
+Federal Insurance Office
+Insurance Regulation and the Federal Insurance Office
+In the United States, the primary regulators of the business of insurance are the fifty states, the
+District of Columbia, and the five U.S. territories.
+The federal government also plays an important role in the insurance industry, including through
+FIO.3
+ Title V of the Dodd-Frank Act established FIO within Treasury.4
+ In addition to advising
+the Secretary of the Treasury (Secretary) on major domestic and prudential international
+insurance policy issues and having its Director serve as a non-voting member of the Financial
+Stability Oversight Council (FSOC), FIO is authorized to:
+1 Federal Insurance Office Act of 2010 (FIO Act), 31 U.S.C. § 313(n)(2).
+2 FIO, Annual Report on the Insurance Industry (2021), https://home.treasury.gov/system/files/311/FIO-2021-
+Annual-Report-Insurance-Industry.pdf (2021 Annual Report).
+3 The federal government also may have a significant impact on insurers through, among other things, the regulation
+of financial products or markets that include insurance (e.g., regulation of securities by the U.S. Securities and
+Exchange Commission (SEC)) and the taxation of insurers and their products.
+4 FIO Act, 31 U.S.C. § 313(a). Title V also designates the Secretary as advisor to the President on “major domestic
+and international prudential policy issues in connection with all lines of insurance except health insurance.” Id. at
+§ 321(a)(9). 
+Annual Report on the Insurance Industry (September 2022)
+_____________________________________________________________________________
+FEDERAL INSURANCE OFFICE, U.S. DEPARTMENT OF THE TREASURY
+2
+• monitor all aspects of the insurance industry, including identifying issues or gaps in
+the regulation of insurers that could contribute to a systemic crisis in the insurance
+industry or the U.S. financial system;
+• monitor the extent to which traditionally underserved communities and consumers,
+minorities, and low- and moderate-income persons have access to affordable
+insurance products regarding all lines of insurance, except health insurance;
+• recommend to FSOC that it designate an insurer, including the affiliates of such
+insurer, as an entity subject to regulation as a nonbank financial company supervised
+by the Board of Governors of the Federal Reserve System (Federal Reserve);
+• assist the Secretary in the administration of the Terrorism Risk Insurance Program
+(TRIP), as established in Treasury under the Terrorism Risk Insurance Act of 2002,
+as amended (TRIA);
+• coordinate federal efforts and develop federal policy on prudential aspects of
+international insurance matters, including representing the United States, as
+appropriate, in the International Association of Insurance Supervisors (IAIS) and
+assisting the Secretary in negotiating covered agreements;
+• determine whether state insurance measures are preempted by covered agreements;
+• consult with the states (including state insurance regulators) regarding insurance
+matters of national importance and prudential insurance matters of international
+importance; and
+• perform such other related duties and authorities as may be assigned to FIO by the
+Secretary.5
+In addition, before the Secretary may make a determination as to whether to seek the
+appointment of the Federal Deposit Insurance Corporation as receiver of an insurer under Title II
+of the Dodd-Frank Act, the Secretary must first receive a written recommendation from the FIO
+Director and the Federal Reserve.6
+ Also, FIO and the Federal Reserve coordinate on the
+performance of annual analyses of nonbank financial companies supervised by the Federal
+Reserve, particularly with respect to stress testing, to evaluate whether such companies have the
+capital, on a consolidated basis, necessary to absorb losses as a result of adverse economic
+conditions.7
+5 FIO Act, 31 U.S.C. § 313(c)(1).
+6 Dodd-Frank Act, 12 U.S.C. § 5383(a)(1)(C).
+7 12 U.S.C. § 5365(i)(1)(A).
+Annual Report on the Insurance Industry (September 2022)
+_____________________________________________________________________________
+FEDERAL INSURANCE OFFICE, U.S. DEPARTMENT OF THE TREASURY
+3
+FIO is authorized to collect data and information on and from the insurance sector, including
+through the use of subpoenas.8
+ FIO is also authorized to analyze and disseminate data and
+information and issue reports on all lines of insurance, except health insurance.9
+In addition to its statutory authorities, FIO has several statutorily imposed reporting obligations.
+Beyond the reporting requirements in the Dodd-Frank Act (including for this annual report), the
+Economic Growth, Regulatory Relief, and Consumer Protection Act directs the Secretary and the
+Federal Reserve Chairman (or their designees) to submit an annual report to Congress on their
+efforts with respect to global insurance regulatory or supervisory forums.10 The Act also
+requires the Secretary and Federal Reserve Chairman (or their designees) to report to Congress
+on their efforts to increase transparency at IAIS meetings.11 In addition, the Act requires that,
+before supporting or consenting to the adoption of any final international insurance capital
+standard, the Secretary, the Federal Reserve Chairman, and the FIO Director—in consultation
+with the National Association of Insurance Commissioners (NAIC)—must complete a study and
+submit a report to Congress on the impact of any such standard on consumers and U.S.
+markets.12
+FIO Activities
+FIO released its last Annual Report on September 30, 2021.13 Certain of FIO’s key activities
+since the last Annual Report are summarized below.
+On September 30, 2021, FIO released its 2021 Preemption Report noting that during the fiscal
+year ending September 30, 2021, FIO did not take any action regarding the preemption of any
+state insurance measures that were inconsistent with a covered agreement.14
+On October 21, 2021, FSOC published its Report on Climate-Related Financial Risk, to which
+FIO staff contributed.15 In addition, FIO staff continue to participate in various FSOC
+8 31 U.S.C. § 313(e).
+9 31 U.S.C. § 313(e).
+10 Economic Growth, Regulatory Relief, and Consumer Protection Act, Pub. L. No. 115-174, § 211(c)(1)(A), 132
+Stat. 1296 (2018).
+11 Economic Growth, Regulatory Relief, and Consumer Protection Act, § 211(c)(4).
+12 Economic Growth, Regulatory Relief, and Consumer Protection Act, § 211(c)(3)(A).
+State regulation of the insurance industry is coordinated through the NAIC, a voluntary organization whose
+membership consists of the chief insurance regulatory officials of the 50 states, the District of Columbia, and the
+five U.S. territories.
+13 FIO, 2021 Annual Report.
+14 FIO, 2021 Preemption Report – Federal Insurance Office (September 30, 2021),
+https://home.treasury.gov/system/files/311/2021-Preemption-Report-FIO.pdf.
+15 See FSOC, Report on Climate-Related Financial Risk (2021), https://home.treasury.gov/system/files/261/FSOCClimate-Report.pdf. See also Treasury, “Financial Stability Oversight Council Identifies Climate Change as an
+Emerging and Increasing Threat to Financial Stability,” news release, October 21, 2021,
+https://home.treasury.gov/news/press-releases/jy0426. 
+Annual Report on the Insurance Industry (September 2022)
+_____________________________________________________________________________
+FEDERAL INSURANCE OFFICE, U.S. DEPARTMENT OF THE TREASURY
+4
+committees, including the Climate-related Financial Risk Committee, and the FIO Director
+attends all meetings of FSOC principals.
+On October 28, 2021, FIO participated in the fourth meeting of the Joint Committee under the
+U.S.-EU Covered Agreement.16
+On November 2, 2021, the Sustainable Insurance Forum (SIF) published SIF Scoping Study:
+Nature-Related Risks in the Global Insurance Sector, to which FIO staff contributed.17 FIO staff
+continue to participate in various SIF workstreams.
+November 15, 2021 was the deadline for comments in response to FIO’s request for information
+on climate-related risks and the insurance sector, which FIO published on August 31, 2021.18
+On November 18, 2021, Treasury published for public comment proposed revisions to the annual
+TRIP data call that would require the production of more detailed information concerning the
+participation of captive insurance companies in TRIP, as well more detailed information
+concerning cyber insurance in order to improve Treasury’s evaluation of cyber insurance within
+the scope of TRIP, including insurance and losses associated with ransomware.19 After
+considering the responses, FIO adopted the revised data collection forms as originally proposed
+and added to the instructions a provision clarifying first-year reporting expectations.
+On December 2, 2021, at a public meeting of the Federal Advisory Committee on Insurance
+(FACI),20 FIO staff presented their initial observations on the responses to FIO’s request for
+information on climate-related risks and the insurance sector, published on August 31, 2021
+(discussed above).21 FIO reported that it had received over 50 unique responses to its request,
+with over 5,300 signatories including over 95 organizations, made on behalf of over 900,000
+16 See Treasury, “United States and European Union Hold Fourth Joint Committee Meeting Under the Bilateral
+Agreement on Prudential Measures Regarding Insurance and Reinsurance,” news release, October 28, 2021,
+https://home.treasury.gov/news/press-releases/jy0441.
+17 SIF, SIF Scoping Study: Nature-Related Risks in the Global Insurance Sector (2021),
+https://www.sustainableinsuranceforum.org/view_pdf.php?pdf_file=wp-content/uploads/2021/11/UN_NatureRelated-Risks-in-the-Global-Insurance-Sector_v9.pdf.
+18 Federal Insurance Office Request for Information on the Insurance Sector and Climate-Related Financial Risks,
+86 Fed. Reg. 48814 (August 31, 2021), https://www.federalregister.gov/documents/2021/08/31/2021-18713/federalinsurance-office-request-for-information-on-the-insurance-sector-and-climate-related.
+19 Terrorism Risk Insurance Program 2022 Data Call, 86 Fed. Reg. 64600 (November 18, 2021),
+https://www.federalregister.gov/documents/2021/11/18/2021-25181/terrorism-risk-insurance-program-2022-datacall.
+20 FACI is a federal advisory committee tasked with making non-binding recommendations to FIO in performing its
+duties and authorities. FACI includes a cross-section of members representative of the views of state and nongovernment persons having an interest in the duties and authorities of FIO. More information on FACI—including
+its meeting agendas, minutes, and presentations—is available on FIO’s website. See “Federal Advisory Committee
+on Insurance (FACI),” Treasury,
+https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/federal-insuranceoffice/federal-advisory-committee-on-insurance-faci.
+21 FIO, “Insurance Sector and Climate-Related Financial Risk: Federal Insurance Office Request for Information”
+(presentation, FACI, Washington, DC, December 2, 2021),
+https://home.treasury.gov/system/files/311/FIO_FACI_Climate-Related%20Financial%20Risk.pdf. 
+Annual Report on the Insurance Industry (September 2022)
+_____________________________________________________________________________
+FEDERAL INSURANCE OFFICE, U.S. DEPARTMENT OF THE TREASURY
+5
+organizations, affiliates, members, supporters, and individuals. FIO is continuing to use these
+responses to inform its ongoing climate-related work.
+FIO staff contributed to FSOC’s annual report for 2021, published on December 17, 2021.22
+On December 23, 2021, Treasury issued a Federal Register notice advising that TRIP’s insurance
+marketplace aggregate retention amount under TRIA for 2022 would be $42,690,205,453.23
+FACI held a public meeting on February 17, 2022, at which FIO announced that it had joined the
+Network of Central Banks and Supervisors for Greening of the Financial System.24 At the same
+time, FIO announced its intent to publish a climate report by year-end 2022, focusing on
+insurance supervision and regulation of climate-related financial risks.
+On March 3, 2022, Treasury’s Bureau of the Fiscal Service published a Notice of Proposed
+Rulemaking in respect of regulations concerning companies that serve as sureties for obligations
+to the United States.25 Among other aspects focused on modernization and reorganization of the
+surety regulations, the notice proposed allowing for the recognition of additional companies that
+can provide reinsurance to a Treasury-certified surety. In developing the proposed regulation,
+the Surety Bonds Branch coordinated with FIO.
+On March 30, 2022, on FIO’s behalf, Treasury published a request for comment from the
+insurance sector and other stakeholders on factors to be analyzed in the 2022 Report on the
+Effectiveness of the Terrorism Risk Insurance Program, as well as other issues relating to the
+effectiveness of TRIP.26
+In April and May 2022, FIO conducted its annual data call in connection with TRIP, as required
+under TRIA, including more detailed information concerning captive insurer participation and
+cyber insurance, as proposed by FIO in November.27 All insurers participating in TRIP were
+required to submit information, subject to certain reporting exemptions.
+22 FSOC, 2021 Annual Report (2022), https://home.treasury.gov/system/files/261/FSOC2021AnnualReport.pdf.
+23 IMARA Calculation for Calendar Year 2022 Under the Terrorism Risk Insurance Program, 86 Fed. Reg. 73100
+(December 23, 2021), https://www.federalregister.gov/documents/2021/12/23/2021-27795/imara-calculation-forcalendar-year-2022-
